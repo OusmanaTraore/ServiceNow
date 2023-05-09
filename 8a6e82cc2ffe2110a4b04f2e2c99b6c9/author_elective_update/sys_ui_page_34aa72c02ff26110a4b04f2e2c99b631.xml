@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_page">
+    <sys_ui_page action="DELETE">
+        <category>homepages</category>
+        <client_script/>
+        <description/>
+        <direct>false</direct>
+        <endpoint>x_996584_serviceno_sim_index.do</endpoint>
+        <html><![CDATA[<?xml version="1.0" encoding="utf-8" ?>
+<j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
+
+</j:jelly>]]></html>
+        <name>sim_index</name>
+        <processing_script/>
+        <sys_class_name>sys_ui_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-09 18:34:14</sys_created_on>
+        <sys_id>34aa72c02ff26110a4b04f2e2c99b631</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sim_index</sys_name>
+        <sys_package display_value="ServiceNowAPPS" source="x_996584_serviceno">8a6e82cc2ffe2110a4b04f2e2c99b6c9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ServiceNowAPPS">8a6e82cc2ffe2110a4b04f2e2c99b6c9</sys_scope>
+        <sys_update_name>sys_ui_page_34aa72c02ff26110a4b04f2e2c99b631</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-09 18:34:14</sys_updated_on>
+    </sys_ui_page>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ServiceNowAPPS">8a6e82cc2ffe2110a4b04f2e2c99b6c9</application>
+        <file_path/>
+        <instance_id>00d7c5a3dbaf53404f035d00cf961944</instance_id>
+        <instance_name>dev68416</instance_name>
+        <name>sys_ui_page_34aa72c02ff26110a4b04f2e2c99b631</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_ui_page"&gt;&lt;sys_ui_page action="INSERT_OR_UPDATE"&gt;&lt;category&gt;homepages&lt;/category&gt;&lt;client_script/&gt;&lt;description/&gt;&lt;direct&gt;false&lt;/direct&gt;&lt;endpoint&gt;x_996584_serviceno_sim_index.do&lt;/endpoint&gt;&lt;html&gt;&lt;![CDATA[&lt;?xml version="1.0" encoding="utf-8" ?&gt;
+&lt;j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null"&gt;
+
+&lt;/j:jelly&gt;]]&gt;&lt;/html&gt;&lt;name&gt;sim_index&lt;/name&gt;&lt;processing_script/&gt;&lt;sys_class_name&gt;sys_ui_page&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-05-09 18:34:14&lt;/sys_created_on&gt;&lt;sys_id&gt;34aa72c02ff26110a4b04f2e2c99b631&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;sim_index&lt;/sys_name&gt;&lt;sys_package display_value="ServiceNowAPPS" source="x_996584_serviceno"&gt;8a6e82cc2ffe2110a4b04f2e2c99b6c9&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="ServiceNowAPPS"&gt;8a6e82cc2ffe2110a4b04f2e2c99b6c9&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_page_34aa72c02ff26110a4b04f2e2c99b631&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-05-09 18:34:14&lt;/sys_updated_on&gt;&lt;/sys_ui_page&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-2009540049</payload_hash>
+        <record_name>sim_index</record_name>
+        <reverted_from/>
+        <source>319f8e082f326110a4b04f2e2c99b648</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-09 18:34:14</sys_created_on>
+        <sys_id>0cda3e002ff26110a4b04f2e2c99b65d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18801cae52a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-09 18:34:14</sys_updated_on>
+        <type>UI Page</type>
+        <update_guid>44da3e0048f2611084dc9a1b2ccde85d</update_guid>
+        <update_guid_history>44da3e0048f2611084dc9a1b2ccde85d:-2009540049</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-09 18:34:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_page">sys_ui_page</sys_db_object>
+        <sys_id>519864996cd34568895349bb0568b3c1</sys_id>
+        <sys_metadata>34aa72c02ff26110a4b04f2e2c99b631</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sim_index</sys_name>
+        <sys_package display_value="ServiceNowAPPS" source="x_996584_serviceno">8a6e82cc2ffe2110a4b04f2e2c99b6c9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ServiceNowAPPS">8a6e82cc2ffe2110a4b04f2e2c99b6c9</sys_scope>
+        <sys_scope_delete display_value="">d546af5d3cae4e43885462faccca4b41</sys_scope_delete>
+        <sys_update_name>sys_ui_page_34aa72c02ff26110a4b04f2e2c99b631</sys_update_name>
+        <sys_update_version display_value="sys_ui_page_34aa72c02ff26110a4b04f2e2c99b631">0cda3e002ff26110a4b04f2e2c99b65d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-09 18:34:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
